@@ -10,7 +10,7 @@ The Apache server is dockerized and linked to the Database Server container for 
 
 <p>This repository uses the application from Udacity Full-Stack Nanodegree project 3 (in this case <em><a href="http://www.flutterhub.com/">FlutterHub</a></em>). To demo a working setup. <br>
 <p>The server ip address is: 52.10.176.92, SSH port is: 2200, Full url is: <a href="http://52.10.176.92">http://52.10.176.92</a> or <a href="http://ec2-52-10-176-92.us-west-2.compute.amazonaws.com/">http://ec2-52-10-176-92.us-west-2.compute.amazonaws.com/</a> </p>
-<img src="https://raw.githubusercontent.com/Ahmed-elsayed-mahmoud/Project-8_Linux_Server_Configuration/img/master/screen_shot.png" alt="enter image description here" title=""></p>
+<img src="https://github.com/Ahmed-elsayed-mahmoud/Project-8_Linux_Server_Configuration/blob/master/img/screen_shot.png" alt="enter image description here" title=""></p>
 
 <h2 id="table-of-contents">Table of contents</h2>
 
@@ -362,7 +362,7 @@ The Apache server is dockerized and linked to the Database Server container for 
 Port 80 is forwarded into the Docker container that runs the Apache server. <br>
 The Apache server container and the Postgresql container are built from a <a href="https://docs.docker.com/reference/builder/">Dockerfile</a> that has all the configuration settings.</p>
 
-<p><img src="https://github.com/robertavram/project5/blob/master/system_diag.png?raw=true" alt="system diagram" title=""></p>
+<p><img src="https://github.com/Ahmed-elsayed-mahmoud/Project-8_Linux_Server_Configuration/blob/master/img/system_diag.png" alt="system diagram" title=""></p>
 
 <h3 id="apache-flask-application-container">Apache - Flask Application Container</h3>
 

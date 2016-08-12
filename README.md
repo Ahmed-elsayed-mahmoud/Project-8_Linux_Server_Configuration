@@ -167,7 +167,7 @@ PermitRootLogin yes
 
 - If you have installed Apache correctly you should see this page at the public IP address.
 
-  ![Apache Default Page](https://github.com/Ahmed-elsayed-mahmoud/Project-8_Linux_Server_Configuration/master/img/apache_default.png)
+  ![Apache Default Page](https://github.com/Ahmed-elsayed-mahmoud/Project-8_Linux_Server_Configuration/blob/master/img/apache_default.png)
 
 - Resources used for this step.
 
